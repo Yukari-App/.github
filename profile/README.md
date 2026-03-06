@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Yukari-App/Yukari">
-        <img src="https://github.com/user-attachments/assets/4b300d41-1d6b-47d3-be11-b536621b245e" width="240" />
+        <img src="./assets/Yukari.png" width="240" />
     </a>
 </p>
 
