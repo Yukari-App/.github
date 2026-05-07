@@ -20,7 +20,7 @@ Anyone can create or use plugins to add sources (MangaDex, ComicK, etc.) without
   Install from here: [Releases](https://github.com/Yukari-App/Yukari/releases) or via Scoop (Asterism bucket).
 
 - **[Yukari.Core](https://www.nuget.org/packages/Yukari.Core)** → Shared API contracts, interfaces (e.g. `IComicSource`) and data models.  
-  Published as NuGet package: `dotnet add package Yukari.Core` (latest: 1.5.0).  
+  Published as NuGet package: `dotnet add package Yukari.Core` (latest: 2.0.0).  
   Source repo: [Yukari-App/Core](https://github.com/Yukari-App/Core) (only for reference or PRs to the API itself).
 
 - **[Plugins](https://github.com/orgs/Yukari-App/repositories?q=Plugin+sort%3Aname-asc)** → Community-maintained sources (format: `Plugin.*`).  
